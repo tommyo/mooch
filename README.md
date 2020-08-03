@@ -1,0 +1,1 @@
+[How I set things up](https://areknawo.com/full-blown-monorepo-setup-walkthrough/)
